@@ -1,5 +1,4 @@
 <!-- Banner -->
-![Banner](https://github.com/GkayCode/GkayCode/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Gökay</h1>
 <h3 align="center">A Passionate Full Stack Developer from Turkey 🇹🇷</h3>
@@ -37,7 +36,7 @@
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GkayCode&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GkayCode1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GkayCode&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
